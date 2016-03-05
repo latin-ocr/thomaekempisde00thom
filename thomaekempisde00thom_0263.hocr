@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thomaekempisde00thom_0263.png"; bbox 0 0 1530 2517; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 511 21 1154 91">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 511 21 1154 91">
+     <span class='ocr_line' id='line_1_1' title="bbox 511 21 1154 91; baseline -0.061 1"><span class='ocrx_word' id='word_1_1' title='bbox 511 21 1154 91; x_wconf 69' lang='lat' dir='ltr'>LLLLLLLLLLLLLLLLLLLLLLL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 100 651 920 699">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 100 651 920 699">
+     <span class='ocr_line' id='line_1_2' title="bbox 100 651 920 699; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 100 651 489 699; x_wconf 69' lang='lat' dir='ltr'>1m1t5t10</span> <span class='ocrx_word' id='word_1_3' title='bbox 548 651 920 699; x_wconf 68' lang='lat'>11111111</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 94 819 1493 956">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 94 819 1493 956">
+     <span class='ocr_line' id='line_1_3' title="bbox 94 819 1042 882; baseline 0 -14"><span class='ocrx_word' id='word_1_4' title='bbox 94 819 1042 882; x_wconf 57' lang='lat'>22222222222222222</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 148 907 1493 956; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 148 907 1493 956; x_wconf 49' lang='lat'>1111111111111111111111111</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
